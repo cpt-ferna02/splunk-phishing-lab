@@ -436,7 +436,7 @@ splunk-phishing-lab/
 ![Splunk Events](screenshots/08-splunk-events.png)
 
 ### 9. Splunk Detections
-![Splunk Detections](screenshots/09-splunk-detections .png)
+![Splunk Detections](screenshots/09-splunk-detections.png)
 
 ### 10. Splunk Dashboard
 ![Splunk Dashboard](screenshots/10-splunk-dashboard.png)
